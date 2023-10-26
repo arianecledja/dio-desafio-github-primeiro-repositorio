@@ -10,3 +10,10 @@ Tipos de Servidores:
 - Web
 - Proxy
 - DNS
+
+Links úteis:
+- [Tags HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+- [Comando mais utilizados em HTML](https://blog.betrybe.com/desenvolvimento-web/comandos-e-tags-html/)
+- [Tipos de input](https://www.w3schools.com/tags/tag_input.asp)
+
+
