@@ -35,4 +35,6 @@ CSS:
    - HSL hsl(360, 100%, 50%);
    - HSLA hsla(140, 100%, 50%, .8)
 
+Projeto Landing Page: 
+ - [Base](https://github.com/micheleambrosio/trilha-css-desafio-01)
 

@@ -1,6 +1,8 @@
 # Desafio de Projeto da DIO sobre Git e GitHub
 Repositório criado para o Desafio de Projeto.
 
+Contêm anotações do Bootcamp iFood - Programação de Jogos
+
 ## Links úteis
 
 ### README
